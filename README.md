@@ -1,4 +1,4 @@
-👋 Salut, eu sunt @queomega
+👋 Salut, eu sunt @queomega <br>
 👀 Sunt interesat de invatarea unor noi limbaje de programare
 🌱 In prezent studiez la Universitatea Politehnica din Bucuresti, Facultatea de Automatica si Calculatoare, anul 2
 📫 Ma poti contacta la iustinonosa_email@yahoo.com
