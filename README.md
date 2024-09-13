@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @queomega
-- 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning front end and back end developing (HTML,CSS,JAVASCRIPT,REACT,NODE)
-- 📫 How to reach me iustinonosa_email@yahoo.com
-- ⚡ Fun fact: I do rock climbing in my free time.
-- As of the last update on this README, I work with C (proficient), Python (beginner), JavaScript (beginner), HTML (beginner), and CSS (beginner).
-
-
+👋 Salut, eu sunt @queomega
+👀 Sunt interesat de invatarea unor noi limbaje de programare
+🌱 In prezent studiez la Universitatea Politehnica din Bucuresti, Facultatea de Automatica si Calculatoare, anul 2
+📫 Ma poti contacta la iustinonosa_email@yahoo.com
+⚡ Fun fact: In timpul liber, practic escalada sportiva.
+Conform ultimei actualizari a acestui README, lucrez cu C (proficient), Python (incepator), JavaScript (incepator), HTML (incepator) si CSS (incepator).
